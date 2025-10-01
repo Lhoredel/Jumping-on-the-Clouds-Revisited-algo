@@ -1,1 +1,2 @@
 # Jumping-on-the-Clouds-Revisited-algo
+By simulating a character hopping over clouds in a circular pattern with energy limitations, this code solves the Jumping on the Clouds: Revisited issue. The code monitors energy levels as the character leaps through clouds in set increments, thereby lowering energy for every leap and added energy for thunderclouds, ongoing until returning to the starting position.
